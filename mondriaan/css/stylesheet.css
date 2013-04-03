@@ -1,0 +1,16 @@
+
+ #css-anim-container {
+  position: relative;
+  display: block;
+ }
+
+ #container {
+  position: relative;
+  display: block;
+  width: 1000px;
+  height: 800px;
+  overflow: hidden;
+ }
+
+
+
